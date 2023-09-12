@@ -1,7 +1,7 @@
 fc
 ==
 
-FC stands for fast-compiling c++ library and provides a set of utility libraries useful
+FC#stands for fast-compiling c++ library and provides a set of utility libraries useful
 for the development of asynchronous libraries.  Some of the highlights include:
 
  - Cooperative Multi-Tasking Library with support for Futures, mutexes, signals.
@@ -12,3 +12,4 @@ for the development of asynchronous libraries.  Some of the highlights include:
  - Logging Infrastructure 
  - Wraps many Boost APIs, such as boost::filesystem, boost::thread, and boost::exception to acceleate compiles
  - Support for unofficial Boost.Process library.
+ 
