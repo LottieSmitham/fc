@@ -1,4 +1,4 @@
-# Compiled Object files
+**Compiled*Object files
 *.slo
 *.lo
 *.o
@@ -40,3 +40,4 @@ cmake_install.cmake
 libfc.a
 libfc_debug.a
 
+ 
